@@ -31,8 +31,7 @@ Supports Google Consent Mode v2 and optional GA4 loading.
 </script>
 
 
-3. Add the main code before `</body>`
-4. ### 3. Add the main code before `</body>`
+3.Add the main code before `</body>`
 
 ```html
 <!-- Astroid Consent Engine -->
@@ -120,3 +119,5 @@ MIT License.
 
 ## Author
 Henrik Larsen
+''''
+4. The main engine is located in `astroid-consent.js`.
