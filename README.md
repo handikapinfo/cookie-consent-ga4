@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
 # Astroid Cookie Consent Framework  
 A simple, lightweight cookie consent popup for the Astroid Joomla Framework.  
 Supports Google Consent Mode v2 and optional GA4 loading.
@@ -5,6 +7,14 @@ Supports Google Consent Mode v2 and optional GA4 loading.
 ---
 
 ![Astroid Consent Engine Preview](./astroid-consent-v2-preview.png)
+
+## Features
+- Lightweight cookie consent popup  
+- Google Consent Mode V2 compatible  
+- Optional GA4 auto-loader  
+- Fully themeable with CSS variables  
+- Works inside Astroid Custom Code (no extensions needed)
+
 
 ---
 
